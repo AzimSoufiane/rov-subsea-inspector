@@ -74,8 +74,11 @@ Design and prototype a **6-degree-of-freedom (6-DOF) underwater Remotely Operate
 | **Tether & Power** | Tethered Cat5e/Ethernet cable + onboard LiPo battery + gamepad | Low-latency comms, onboard power, piloting |
 
 ---
+## External CAD References
+*   **guidoschillaci/underwater-drone**: Clamp geometries and 45° thruster mounts adapted for the NovaTech ROV. Source: https://github.com/guidoschillaci/underwater-drone (CC-BY 4.0)
 
-## 5. GitHub & Overleaf Workflow
+---
+## 6. GitHub & Overleaf Workflow
 
 ### Repository Layout
 ```text
